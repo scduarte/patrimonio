@@ -41,12 +41,12 @@
                             <a href=""><i class="him-icon zmdi zmdi-search"></i></a>
                         </li>
 
-                  <!--         <li class="dropdown">
-                         <a data-toggle="dropdown" href="">
+                        <li class="dropdown">
+                            <a data-toggle="dropdown" href="">
                                 <i class="him-icon zmdi zmdi-email"></i>
                                 <i class="him-counts">6</i>
                             </a>
-                           <div class="dropdown-menu dropdown-menu-lg pull-right">
+                            <div class="dropdown-menu dropdown-menu-lg pull-right">
                                 <div class="list-group">
                                     <div class="lg-header">
                                         Messages
@@ -100,7 +100,7 @@
                                     </div>
                                     <a class="view-more" href="">View All</a>
                                 </div>
-                            </div> 
+                            </div>
                         </li>
                         <li class="dropdown">
                             <a data-toggle="dropdown" href="">
@@ -171,7 +171,7 @@
                                     <a class="view-more" href="">View Previous</a>
                                 </div>
                             </div>
-                        </li>-->
+                        </li>
                         <li class="dropdown hidden-xs">
                             <a data-toggle="dropdown" href="">
                                 <i class="him-icon zmdi zmdi-view-list-alt"></i>
